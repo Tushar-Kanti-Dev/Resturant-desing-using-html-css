@@ -113,7 +113,7 @@ header{
     text-shadow: 3px 2px 5px black;
 }
 .banner-content h2{
-    width: 500px;
+    width: auto;
     margin: 15px auto;
     padding: 10px;
     font-size: 2rem;
